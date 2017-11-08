@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraView</string>
+    <string name="capture">Capture</string>
+    <string name="stop">Stop</string>
+</resources>
